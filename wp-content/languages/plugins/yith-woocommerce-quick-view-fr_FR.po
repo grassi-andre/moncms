@@ -1,0 +1,1310 @@
+# Translation of Plugins - YITH WooCommerce Quick View - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Quick View - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-07 06:48:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Quick View - Stable (latest release)\n"
+
+#: plugin-fw/templates/panel/premium-tab.php:58
+#, gp-priority: normal
+msgctxt "Premium Tab"
+msgid "Get the premium version"
+msgstr "Obtenez l’extension Premium"
+
+#: plugin-fw/templates/panel/premium-tab.php:34
+#, gp-priority: normal
+msgctxt "Premium Tab"
+msgid "Get premium"
+msgstr "Passer en version Premium"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:853
+#, gp-priority: normal
+msgctxt "Premium tab name"
+msgid "Get premium"
+msgstr "Obtenir la version premium"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:123
+#, gp-priority: normal
+msgid "WordPress requirements"
+msgstr "Prérequis de WordPress"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:123
+#, gp-priority: normal
+msgid "WordPress recommends a minimum MySQL version of 5.6. See: %s"
+msgstr "WordPress recommande au minimum la version 5.6 de MySQL. Voir: %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:113
+#, gp-priority: normal
+msgid "MySQL version"
+msgstr "Version de MySQL "
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:108
+#, gp-priority: normal
+msgid "Database Info"
+msgstr "Informations sur la base de données"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:154
+#, gp-priority: normal
+msgid "Database Free Size"
+msgstr "Taille disponible en base de donnée"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:146
+#, gp-priority: normal
+msgid "Database Index Size"
+msgstr "Taille Index Base de Données"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:138
+#, gp-priority: normal
+msgid "Database Data Size"
+msgstr "Taille de la base de données"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:130
+#, gp-priority: normal
+msgid "Total Database Size"
+msgstr "Taille totale de la base de données"
+
+#. translators: %s is the name of the plugin that is loading the framework.
+#: plugin-fw/templates/sysinfo/tabs/main.php:64
+#, gp-priority: normal
+msgid "loaded by %s"
+msgstr "Chargé par %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:55
+#, gp-priority: normal
+msgid "YITH Plugin Framework Version"
+msgstr "Version du Framework de l’extension YITH"
+
+#: plugin-fw/templates/panel/help-tab.php:192
+#, gp-priority: normal
+msgctxt "Help tab submit ticket title"
+msgid "Need help?"
+msgstr "Besoin d'aide?"
+
+#: plugin-fw/templates/panel/help-tab.php:183
+#, gp-priority: normal
+msgctxt "Help tab FAQ link"
+msgid "View all FAQs >"
+msgstr "Voir tous les FAQ >"
+
+#: plugin-fw/templates/panel/help-tab.php:203
+#, gp-priority: normal
+msgctxt "Help tab submit ticket button"
+msgid "Submit a ticket"
+msgstr "Envoyer un ticket"
+
+#: plugin-fw/templates/panel/help-tab.php:150
+#, gp-priority: normal
+msgctxt "Help tab view FAQs link"
+msgid "Check the FAQs"
+msgstr "Vérifier la FAQ"
+
+#: plugin-fw/templates/panel/help-tab.php:124
+#, gp-priority: normal
+msgctxt "Help tab Read Documentation link"
+msgid "Read the documentation"
+msgstr "Lire la documentation"
+
+#: plugin-fw/templates/panel/help-tab.php:94
+#, gp-priority: normal
+msgctxt "Help tab Watch Videotutorials link"
+msgid "Videos are also available in:"
+msgstr "Les vidéos sont aussi disponibles en :"
+
+#. translators: 1. Url to EN playlist.
+#: plugin-fw/templates/panel/help-tab.php:87
+#, gp-priority: normal
+msgctxt "Help tab view all video link"
+msgid "Check the full <a href=\"%s\" target=\"_blank\">Playlist on Youtube</a> to learn more >"
+msgstr "Consultez <a href=\"%s\" target=\"_blank\">la liste de lecture complète sur Youtube</a> pour en apprendre davantage >"
+
+#: plugin-fw/templates/fields/image-dimensions.php:23
+#, gp-priority: normal
+msgctxt "Image height field label"
+msgid "Height"
+msgstr "Taille"
+
+#: plugin-fw/templates/fields/image-dimensions.php:18
+#, gp-priority: normal
+msgctxt "Image width field label"
+msgid "Width"
+msgstr "Largeur "
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:805
+#, gp-priority: normal
+msgctxt "Help tab default title"
+msgid "Thank you for purchasing %s!"
+msgstr "Merci d’acheter %s !"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:491
+#, gp-priority: normal
+msgctxt "Help tab name"
+msgid "Help"
+msgstr "Aide"
+
+#: plugin-fw/includes/class-yit-help-desk.php:152
+#, gp-priority: normal
+msgid "There was an error with your request; please try again later."
+msgstr "Une erreur est survenue lors de votre demande. Veuillez réessayer ultérieurement."
+
+#: plugin-fw/includes/class-yit-assets.php:146 plugin-fw/yit-functions.php:1982
+#, gp-priority: normal
+msgctxt "Trash confirmation action"
+msgid "Yes, move to trash"
+msgstr "Oui, mettre à la corbeille"
+
+#: plugin-fw/includes/class-yit-assets.php:145
+#, gp-priority: normal
+msgid "Are you sure you want to trash the selected items?"
+msgstr "Confirmez-vous vouloir mettre à la corbeille les éléments sélectionnés ?"
+
+#: plugin-fw/includes/class-yit-assets.php:149
+#, gp-priority: normal
+msgid "Are you sure you want to delete the selected items?"
+msgstr "Confirmez-vous vouloir supprimer les éléments sélectionnés ?"
+
+#: plugin-fw/yit-functions.php:1953
+#, gp-priority: normal
+msgctxt "Post action"
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: plugin-fw/yit-functions.php:1945
+#, gp-priority: normal
+msgctxt "Post action"
+msgid "Edit"
+msgstr "Modifier"
+
+#: plugin-fw/yit-functions.php:1934
+#, gp-priority: normal
+msgctxt "Post action"
+msgid "View"
+msgstr "Voir"
+
+#: plugin-fw/yit-functions.php:1925
+#, gp-priority: normal
+msgctxt "Post action"
+msgid "Preview"
+msgstr "Aperçu"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:286
+#, gp-priority: normal
+msgid "Back to the list"
+msgstr "Retour à la liste"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:286
+#, gp-priority: normal
+msgid "Back to \"%s\""
+msgstr "Retour à « %s »"
+
+#: plugin-fw/includes/class-yit-assets.php:133
+#, gp-priority: normal
+msgctxt "Button text"
+msgid "Cancel"
+msgstr "Annuler"
+
+#: plugin-fw/includes/class-yit-assets.php:132
+#, gp-priority: normal
+msgctxt "Button text"
+msgid "Confirm"
+msgstr "Confirmez"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:32
+#, gp-priority: normal
+msgid "Options Saved"
+msgstr "Options enregistrées"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:28
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:32
+#, gp-priority: normal
+msgid "Save Options"
+msgstr "Enregistrer les Options"
+
+#: plugin-fw/yit-functions.php:2118
+#, gp-priority: normal
+msgctxt "Term action"
+msgid "Delete"
+msgstr "Supprimer"
+
+#: plugin-fw/yit-functions.php:2105
+#, gp-priority: normal
+msgctxt "Term action"
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: plugin-fw/yit-functions.php:2097
+#, gp-priority: normal
+msgctxt "Term action"
+msgid "Edit"
+msgstr "Modifier"
+
+#: plugin-fw/yit-functions.php:2087
+#, gp-priority: normal
+msgctxt "Term action"
+msgid "View"
+msgstr "Afficher"
+
+#: plugin-fw/yit-functions.php:2011 plugin-fw/yit-functions.php:2019
+#: plugin-fw/yit-functions.php:2136
+#, gp-priority: normal
+msgid "Further actions"
+msgstr "Actions supplémentaires"
+
+#: plugin-fw/includes/class-yit-assets.php:150 plugin-fw/yit-functions.php:2000
+#: plugin-fw/yit-functions.php:2127
+#, gp-priority: normal
+msgctxt "Delete confirmation action"
+msgid "Yes, delete"
+msgstr "Oui, supprimer"
+
+#: plugin-fw/includes/class-yit-assets.php:148 plugin-fw/yit-functions.php:1997
+#: plugin-fw/yit-functions.php:2125
+#, gp-priority: normal
+msgid "Confirm delete"
+msgstr "Confirmer la suppression"
+
+#: plugin-fw/yit-functions.php:1990
+#, gp-priority: normal
+msgctxt "Post action"
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: plugin-fw/includes/class-yit-assets.php:144 plugin-fw/yit-functions.php:1979
+#, gp-priority: normal
+msgid "Confirm trash"
+msgstr "Confirmer la mise à la corbeille"
+
+#: plugin-fw/yit-functions.php:1973
+#, gp-priority: normal
+msgctxt "Post action"
+msgid "Trash"
+msgstr "Corbeille"
+
+#: plugin-fw/yit-functions.php:1965
+#, gp-priority: normal
+msgctxt "Post action"
+msgid "Restore"
+msgstr "Restaurer"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/includes/class-yit-assets.php:149 plugin-fw/yit-functions.php:1913
+#: plugin-fw/yit-functions.php:2073
+#, gp-priority: normal
+msgid "This action cannot be undone and you will not be able to recover this data."
+msgstr "Cette action est irréversible et vous ne pourrez pas récupérer ces données."
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1911
+#, gp-priority: normal
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "Voulez-vous vraiment déplacer « %s » dans la corbeille ?"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1913 plugin-fw/yit-functions.php:2073
+#, gp-priority: normal
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "Voulez-vous vraiment supprimer \"%s\" ?"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1528
+#, gp-priority: normal
+msgid "help us by leaving a good review"
+msgstr "aidez nous en laissant un avis positif"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:45
+#, gp-priority: normal
+msgctxt "Copy-to-clipboard button text"
+msgid "Copy"
+msgstr "Copier"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:41
+#, gp-priority: normal
+msgctxt "Copy-to-clipboard message"
+msgid "Copied!"
+msgstr "Copié !"
+
+#. translators: %s it the Elementor Widget title.
+#: plugin-fw/includes/builders/elementor/class-yith-elementor-widget.php:252
+#, gp-priority: normal
+msgctxt "Elementor Widget - section title"
+msgid "%s - Options"
+msgstr "%s - Options"
+
+#: plugin-fw/templates/fields/date-format.php:70
+#, gp-priority: normal
+msgid "Preview:"
+msgstr "Aperçu :"
+
+#: plugin-fw/includes/class-yit-pointers.php:97
+#, gp-priority: normal
+msgid "From now on, you can find the option panel of YITH plugins in YITH menu. Every time one of our plugins is added, a new entry will be added to this menu. For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) will be moved from previous location to YITH menu."
+msgstr "À partir de maintenant, vous pouvez trouver le panneau d’options des extensions YITH dans le menu YITH Plugins. Chaque fois qu’une de nos extensions est ajoutée, une nouvelle entrée sera ajoutée à ce menu. Par exemple, après la mise à jour, les options des extensions (telles que YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) seront déplacées de l’emplacement précédent vers l’onglet YITH Plugins."
+
+#. translators: 1. YITH site link; 2. WordPress site link.
+#: plugin-fw/includes/class-yit-pointers.php:84
+#: plugin-fw/includes/class-yit-pointers.php:100
+#, gp-priority: normal
+msgid "Discover all our plugins available on: %1$s and %2$s"
+msgstr "Découvrez toutes nos extensions disponibles sur : %1$s et %2$s"
+
+#: plugin-fw/includes/class-yit-pointers.php:81
+#, gp-priority: normal
+msgid "From now on, you can find all plugin options in YITH menu. Plugin customization settings will be available as a new entry in YITH menu."
+msgstr "À partir de maintenant, vous pouvez trouver toutes les options de l’extension dans le menu extensions YITH. Les paramètres de personnalisation de l’extension seront disponibles en tant que nouvelle entrée dans le menu extensions YITH."
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:12
+#, gp-priority: normal
+msgid "PHPInfo"
+msgstr "PHPInfo"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:73
+#, gp-priority: normal
+msgid "Plugins Requirements"
+msgstr "Prérequis des Plugins"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:60
+#, gp-priority: normal
+msgid "Download"
+msgstr "Télécharger"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:105
+#, gp-priority: normal
+msgid "Copied!"
+msgstr "Copié!"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:105
+#, gp-priority: normal
+msgid "Copy Code"
+msgstr "Copier le Code"
+
+#. translators: %s file name.
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:96
+#, gp-priority: normal
+msgid "No Log file available. Enable the WordPress debug by adding this in the %s file of your installation"
+msgstr "Aucun fichier journal disponible. Activez le débogage WordPress en ajoutant ceci dans le fichier %s de votre installation"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:72
+#, gp-priority: normal
+msgid "The file size exceeds 8 megabytes so it must be downloaded"
+msgstr "La taille du fichier dépasse 8 mégaoctets, il doit donc être téléchargé"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:17
+#, gp-priority: normal
+msgid "Site Info"
+msgstr "Info du site"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:13
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:25
+#, gp-priority: normal
+msgid "Log Files"
+msgstr "Fichiers journaux"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:47
+#, gp-priority: normal
+msgid "External object cache"
+msgstr "Cache d’objet externe"
+
+#: plugin-fw/includes/class-yit-assets.php:147
+#: plugin-fw/includes/class-yit-assets.php:151
+#: plugin-fw/templates/sysinfo/tabs/main.php:42
+#: plugin-fw/templates/sysinfo/tabs/main.php:50
+#: plugin-fw/yit-functions.php:1981 plugin-fw/yit-functions.php:1999
+#, gp-priority: normal
+msgid "No"
+msgstr "Non"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:42
+#: plugin-fw/templates/sysinfo/tabs/main.php:50
+#, gp-priority: normal
+msgid "Yes"
+msgstr "Oui"
+
+#: plugin-fw/includes/class-yit-assets.php:166
+#, gp-priority: normal
+msgid "Select Color"
+msgstr "Sélectionner couleur"
+
+#: plugin-fw/includes/class-yit-assets.php:164
+#, gp-priority: normal
+msgid "Default"
+msgstr "Par défaut"
+
+#: plugin-fw/includes/class-yit-assets.php:162
+#, gp-priority: normal
+msgid "Clear"
+msgstr "Effacer"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:13
+#, gp-priority: normal
+msgid "WP debug.log file"
+msgstr "Fichier WP debug.log"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:18
+#, gp-priority: normal
+msgid "PHP error_log file"
+msgstr "Fichier PHP error_log"
+
+#: plugin-fw/includes/class-yit-assets.php:167
+#, gp-priority: normal
+msgid "Color value"
+msgstr "Référence couleur"
+
+#: plugin-fw/includes/class-yit-assets.php:163
+#, gp-priority: normal
+msgid "Clear color"
+msgstr "Effacer la couleur"
+
+#: plugin-fw/includes/class-yith-system-status.php:558
+#, gp-priority: normal
+msgid "Contact your hosting company in order to install it."
+msgstr "Contacter l’hébergeur pour l’installer."
+
+#. translators: %1$s TLS label
+#: plugin-fw/includes/class-yith-system-status.php:608
+#, gp-priority: normal
+msgid "The system check cannot determine which %1$s version is installed due to a connection issue between your site and our server."
+msgstr "La vérification du système ne peut pas déterminer quelle version de %1$s est installée en raison d’un problème de connexion entre votre site et notre serveur."
+
+#. translators: %1$s TLS label, %2$s cURL label
+#: plugin-fw/includes/class-yith-system-status.php:605
+#, gp-priority: normal
+msgid "The system check cannot determine which %1$s version is installed because %2$s module is disabled. Ask your hosting company to enable it."
+msgstr "Le système ne peut pas déterminer quelle version %1$s est installée puisque le module %2$s est désactivé. Demandez à votre hébergeur de l’activer."
+
+#: plugin-fw/includes/class-yit-assets.php:165
+#, gp-priority: normal
+msgid "Select default color"
+msgstr "Sélectionner la couleur par défaut"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:39
+#, gp-priority: normal
+msgid "Defined WP_CACHE"
+msgstr "WP_CACHE Défini"
+
+#: plugin-fw/templates/fields/dimensions.php:94
+#, gp-priority: normal
+msgctxt "Tooltip in the \"Dimensions\" field"
+msgid "Link values together"
+msgstr "Lier les valeurs ensemble"
+
+#: plugin-fw/templates/fields/dimensions.php:13
+#, gp-priority: normal
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Top"
+msgstr "En haut"
+
+#: plugin-fw/templates/fields/dimensions.php:14
+#, gp-priority: normal
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Right"
+msgstr "À droite"
+
+#: plugin-fw/templates/fields/dimensions.php:15
+#, gp-priority: normal
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Bottom"
+msgstr "En bas"
+
+#: plugin-fw/templates/fields/dimensions.php:16
+#, gp-priority: normal
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Left"
+msgstr "À gauche"
+
+#: plugin-fw/templates/fields/onoff.php:28
+#, gp-priority: normal
+msgctxt "YES/NO button: use MAX 4 characters!"
+msgid "YES"
+msgstr "Oui"
+
+#: plugin-fw/templates/fields/onoff.php:29
+#, gp-priority: normal
+msgctxt "YES/NO button: use MAX 4 characters!"
+msgid "NO"
+msgstr "Non"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1525
+#, gp-priority: normal
+msgid "We need your support"
+msgstr "Nous avons besoin de votre soutien"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1526
+#, gp-priority: normal
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "Pour continuer de mettre à jour et d’améliorer l’extension. S’il-vous-plaît,"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1529
+#, gp-priority: normal
+msgid ":) Thanks!"
+msgstr ":) Merci !"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:22
+#, gp-priority: normal
+msgid "Site URL"
+msgstr "URL du site"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:31
+#, gp-priority: normal
+msgid "Output IP Address"
+msgstr "Adresse IP de sortie"
+
+#: plugin-fw/includes/class-yith-system-status.php:120
+#, gp-priority: normal
+msgid "Iconv Module"
+msgstr "Icône du module"
+
+#: plugin-fw/includes/class-yith-system-status.php:493
+#, gp-priority: normal
+msgid "N/A"
+msgstr "N/D"
+
+#: plugin-fw/includes/class-yith-system-status.php:191
+#, gp-priority: normal
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:122
+#, gp-priority: normal
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:119
+#, gp-priority: normal
+msgid "GD Library"
+msgstr "Librairie GD"
+
+#: plugin-fw/includes/class-yith-system-status.php:118
+#, gp-priority: normal
+msgid "ImageMagick Version"
+msgstr "Version ImageMagick"
+
+#: plugin-fw/includes/class-yith-system-status.php:116
+#, gp-priority: normal
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/includes/class-yith-system-status.php:115
+#, gp-priority: normal
+msgid "WordPress Cron"
+msgstr "Cron WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:114
+#, gp-priority: normal
+msgid "TLS Version"
+msgstr "Version TLS"
+
+#: plugin-fw/includes/class-yith-system-status.php:112
+#, gp-priority: normal
+msgid "Available Memory"
+msgstr "Mémoire disponible"
+
+#: plugin-fw/includes/class-yith-system-status.php:111
+#, gp-priority: normal
+msgid "WooCommerce Version"
+msgstr "Version de WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:140
+#: plugin-fw/includes/class-yith-system-status.php:141
+#: plugin-fw/templates/sysinfo/system-information-panel.php:11
+#, gp-priority: normal
+msgid "System Status"
+msgstr "État du système"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: plugin-fw/templates/fields/ajax-customers.php:68
+#: plugin-fw/templates/fields/ajax-customers.php:79
+#, gp-priority: normal
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (n°%2$s – %3$s)"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+#, gp-priority: normal
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+#, gp-priority: normal
+msgid "Enabled"
+msgstr "Activé"
+
+#: plugin-fw/includes/class-yith-system-status.php:110
+#, gp-priority: normal
+msgid "WordPress Version"
+msgstr "Version WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:113
+#, gp-priority: normal
+msgid "PHP Version"
+msgstr "Version PHP"
+
+#: plugin-fw/includes/class-yith-system-status.php:117
+#, gp-priority: normal
+msgid "MultiByte String"
+msgstr "Chaînes multi-octets"
+
+#: plugin-fw/includes/class-yith-system-status.php:121
+#, gp-priority: normal
+msgid "OPCache Save Comments"
+msgstr "Cache OP d’enregistrement des commentaires"
+
+#. translators: %1$s open link tag, %2$s open link tag
+#: plugin-fw/includes/class-yith-system-status.php:346
+#, gp-priority: normal
+msgid "The system check has detected some compatibility issues on your installation.%1$sClick here%2$s to know more"
+msgstr "La vérification du système a détecté quelques problèmes de compatibilité sur votre installation.%1$sCliquez ici%2$s pour en savoir plus"
+
+#. translators: %1$s plugin name, %2$s requirement name
+#: plugin-fw/includes/class-yith-system-status.php:520
+#, gp-priority: normal
+msgid "%1$s needs %2$s enabled"
+msgstr "%1$s a besoin de %2$s activé"
+
+#. translators: %1$s plugin name, %2$s required memory amount
+#: plugin-fw/includes/class-yith-system-status.php:523
+#, gp-priority: normal
+msgid "%1$s needs at least %2$s of available memory"
+msgstr "%1$s a besoin d’au moins %2$s de mémoire disponible"
+
+#. translators: %1$s plugin name, %2$s version number
+#: plugin-fw/includes/class-yith-system-status.php:526
+#, gp-priority: normal
+msgid "%1$s needs at least %2$s version"
+msgstr "%1$s a besoin d’une version au minimum %2$s"
+
+#: plugin-fw/includes/class-yith-system-status.php:550
+#, gp-priority: normal
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "La mettre à jour avec la dernière version afin de bénéficier de toutes les nouvelles fonctionnalités et mises à jour de sécurité."
+
+#: plugin-fw/includes/class-yith-system-status.php:554
+#: plugin-fw/includes/class-yith-system-status.php:560
+#, gp-priority: normal
+msgid "Contact your hosting company in order to update it."
+msgstr "Contacter l’hébergeur afin de le mettre à jour."
+
+#. translators: %1$s code, %2$s file name
+#: plugin-fw/includes/class-yith-system-status.php:565
+#, gp-priority: normal
+msgid "Remove %1$s from %2$s file"
+msgstr "Retirer %1$s du fichier %2$s"
+
+#: plugin-fw/includes/class-yith-system-status.php:573
+#, gp-priority: normal
+msgid "Contact your hosting company in order to enable it."
+msgstr "Contacter l’hébergeur afin de l’activer."
+
+#. translators: %1$s opening link tag, %2$s closing link tag
+#: plugin-fw/includes/class-yith-system-status.php:577
+#: plugin-fw/includes/class-yith-system-status.php:600
+#, gp-priority: normal
+msgid "Read more %1$shere%2$s or contact your hosting company in order to increase it."
+msgstr "Lire la suite %1$sici%2$s ou contactez votre hébergeur pour l’augmenter."
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:597
+#, gp-priority: normal
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "Pour un fonctionnement optimal de nos extensions, nous vous suggérons de régler au moins %s de la mémoire disponible"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:22
+#, gp-priority: normal
+msgid "YITH System Information"
+msgstr "Informations système YITH"
+
+#: plugin-fw/includes/class-yith-system-status.php:342
+#, gp-priority: normal
+msgid "Warning!"
+msgstr "Avertissement !"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+#, gp-priority: normal
+msgid "Add All"
+msgstr "Tout ajouter"
+
+#: plugin-fw/templates/fields/select-buttons.php:20
+#, gp-priority: normal
+msgid "Remove All"
+msgstr "Tout retirer"
+
+#: plugin-fw/templates/fields/date-format.php:65
+#, gp-priority: normal
+msgid "Custom:"
+msgstr "Personnalisé :"
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+#, gp-priority: normal
+msgctxt "Button label"
+msgid "Close"
+msgstr "Fermer"
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+#, gp-priority: normal
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "Voir le journal des modifications"
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+#, gp-priority: normal
+msgid "RSS Error:"
+msgstr "Erreur RSS :"
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+#, gp-priority: normal
+msgid "Latest news from YITH Blog"
+msgstr "Dernières nouvelles du blog YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+#, gp-priority: normal
+msgid "YITH Latest Updates"
+msgstr "Dernières mises à jour YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+#, gp-priority: normal
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Une erreur est survenue, ce qui signifie probablement que le flux est en panne. Réessayez plus tard."
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+#, gp-priority: normal
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "Dernière mise à jour publiée le"
+
+#: plugin-fw/includes/builders/gutenberg/class-yith-gutenberg.php:149
+#, gp-priority: normal
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+#, gp-priority: normal
+msgid "YITH"
+msgstr "YITH"
+
+#: plugin-fw/yit-plugin.php:205
+#, gp-priority: normal
+msgid "License"
+msgstr "Licence"
+
+#: plugin-fw/yit-plugin.php:96
+#, gp-priority: normal
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Version premium"
+
+#: plugin-fw/yit-plugin.php:88
+#, gp-priority: normal
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Documentation"
+
+#: plugin-fw/yit-plugin.php:84
+#, gp-priority: normal
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Démo en ligne"
+
+#: plugin-fw/yit-plugin.php:92
+#, gp-priority: normal
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Support"
+
+#: plugin-fw/yit-plugin.php:201
+#, gp-priority: normal
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Réglages"
+
+#. Description of the plugin
+#, gp-priority: normal
+msgid "The <code><strong>YITH WooCommerce Quick View</strong></code> plugin allows your customers to have a quick look about products. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "<code><strong>YITH WooCommerce Aperçu</strong></code> permet à vos clients d’avoir un aperçu rapide des produits. <a href=\"https://yithemes.com/\" target=\"_blank\">Obtenez plus de extensions pour votre boutique en ligne sur <strong>YITH</strong></a>."
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+#, gp-priority: normal
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Paiements"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+#, gp-priority: normal
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Ce que nous partageons avec les autres"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+#, gp-priority: normal
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Qui dans notre équipe a accès"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+#, gp-priority: normal
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Ce que nous collectons et stockons"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+#, gp-priority: normal
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "Extensions YITH"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+#, gp-priority: normal
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Cet exemple de texte comprend les principes de base concernant les données personnelles que votre boutique peut collecter, stocker et partager, ainsi que les personnes susceptibles d’avoir accès à ces données. En fonction des réglages activés et des extensions supplémentaires utilisés, les informations spécifiques partagées par votre boutique varieront. Nous vous recommandons de consulter un avocat pour décider des informations à afficher dans votre politique de confidentialité."
+
+#: plugin-fw/templates/fields/icons.php:78
+#, gp-priority: normal
+msgid "Set Default"
+msgstr "Définir par défaut"
+
+#. Author URI of the plugin
+#, gp-priority: normal
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#: templates/admin/premium.php:404
+#, gp-priority: normal
+msgid "SHARE"
+msgstr "PARTAGER"
+
+#: templates/admin/premium.php:321 templates/admin/premium.php:322
+#, gp-priority: normal
+msgid "Content to display"
+msgstr "Contenu à afficher"
+
+#: plugin-fw/templates/fields/upload.php:34
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+#, gp-priority: normal
+msgid "Upload"
+msgstr "Téléverser"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+#, gp-priority: normal
+msgid "Close all"
+msgstr "Tout fermer"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+#, gp-priority: normal
+msgid "Value"
+msgstr "Valeur"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+#, gp-priority: normal
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenu de l’onglet. (HTML supporté)"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+#, gp-priority: normal
+msgid "Add custom product tab"
+msgstr "Ajouter un onglet de produit personnalisé"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+#, gp-priority: normal
+msgid "Do you want to remove the custom tab?"
+msgstr "Voulez-vous supprimer l’onglet personnalisé ?"
+
+#: plugin-fw/templates/fields/image-gallery.php:29
+#: plugin-fw/templates/fields/image-gallery.php:40
+#, gp-priority: normal
+msgid "Delete image"
+msgstr "Supprimer l’image"
+
+#: plugin-fw/templates/fields/image-gallery.php:37
+#, gp-priority: normal
+msgid "Add Images to Gallery"
+msgstr "Ajouter des images à la galerie"
+
+#: plugin-fw/templates/fields/image-gallery.php:38
+#, gp-priority: normal
+msgid "Add to gallery"
+msgstr "Ajouter à la galerie"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+#, gp-priority: normal
+msgid "Add images"
+msgstr "Ajouter des images"
+
+#: templates/admin/premium.php:279
+#, gp-priority: normal
+msgid "BUTTON TYPE"
+msgstr "TYPE DE BOUTON"
+
+#: templates/admin/premium.php:274
+#, gp-priority: normal
+msgid "Button type"
+msgstr "Type de bouton"
+
+#: templates/admin/premium.php:296 templates/admin/premium.php:297
+#: templates/admin/premium.php:308
+#, gp-priority: normal
+msgid "Product Navigation"
+msgstr "Navigation de produit"
+
+#: plugin-options/settings-options.php:55 templates/admin/premium.php:421
+#: templates/admin/premium.php:432
+#, gp-priority: normal
+msgid "Style Options"
+msgstr "Options de style"
+
+#: plugin-fw/templates/fields/upload.php:39
+#, gp-priority: normal
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+#, gp-priority: normal
+msgid "Choose a sidebar"
+msgstr "Choisir une barre latérale"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+#, gp-priority: normal
+msgid "Right sidebar"
+msgstr "Colonne latérale droite"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:38
+#, gp-priority: normal
+msgid "Reset Defaults"
+msgstr "Réinitialiser les réglages par défaut"
+
+#: plugin-options/settings-options.php:17
+#, gp-priority: normal
+msgid "General Options"
+msgstr "Options générales"
+
+#: plugin-options/settings-options.php:25
+#, gp-priority: normal
+msgid "Enable Quick View"
+msgstr "Activer la Vue rapide"
+
+#: plugin-options/settings-options.php:33
+#, gp-priority: normal
+msgid "Enable Quick View on mobile"
+msgstr "Activer la Vue rapide sur mobile"
+
+#: plugin-options/settings-options.php:34
+#, gp-priority: normal
+msgid "Enable quick view features on mobile device too"
+msgstr "Activer les fonctions de Vue rapide sur mobile également"
+
+#: plugin-options/settings-options.php:42
+#, gp-priority: normal
+msgid "Quick View Button Label"
+msgstr "Libellé du bouton Vue rapide"
+
+#: plugin-options/settings-options.php:43
+#, gp-priority: normal
+msgid "Label for the quick view button in the WooCommerce loop."
+msgstr "Libellé pour le bouton Vue rapide dans la boucle WooCommerce."
+
+#: plugin-options/settings-options.php:62
+#, gp-priority: normal
+msgid "Modal Window Background Color"
+msgstr "Couleur d’arrière-plan de la fenêtre modale"
+
+#: plugin-options/settings-options.php:71
+#, gp-priority: normal
+msgid "Closing Button Color"
+msgstr "Couleur de bouton de fermeture"
+
+#: plugin-options/settings-options.php:80
+#, gp-priority: normal
+msgid "Closing Button Hover Color"
+msgstr "Couleur du bouton au survol"
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:302
+#, gp-priority: normal
+msgid "The navigation in the \"Quick View\" allows browsing among %1$sproducts%2$s displayed in it. The navigation arrows show on mousehover the image of the next/previous product."
+msgstr "La navigation dans la « Vue rapide » permet de parcourir les %1$sproduits%2$s qui y sont affichés. Les flèches de navigation montrent au survol de la souris l’image du produit suivant/précédent."
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:327
+#, gp-priority: normal
+msgid "The display of the product information in the \"Quick View\" are managed by %1$sadministrators%2$s who can decide whether to show everything or only a part of it."
+msgstr "L’affichage des informations produit dans la « Vue rapide » est géré par les %1$sadministrateurs%2$s qui peuvent décider de tout afficher ou seulement une partie de celui-ci."
+
+#: templates/admin/premium.php:339
+#, gp-priority: normal
+msgid "Quick View Type"
+msgstr "Type de Vue rapide"
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:344
+#, gp-priority: normal
+msgid "Quick view has two different displaying modes: the first one opens it as a %1$smodal window%2$s, the other one opens it in the page itself with a %1$scascading effect%2$s above content page."
+msgstr "La Vue rapide a deux modes d’affichage différents : le premier l’ouvre en tant que fenêtre %1$smodale%2$s, l’autre l’ouvre dans la page elle-même avec un effet de %1$sbalayage%2$s au-dessus de la page."
+
+#: templates/admin/premium.php:350
+#, gp-priority: normal
+msgid "Quick view type"
+msgstr "Type de Vue rapide"
+
+#: templates/admin/premium.php:364
+#, gp-priority: normal
+msgid "\"View details\" button"
+msgstr "Bouton « Afficher les détails »"
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:369
+#, gp-priority: normal
+msgid "An additional button that allows users to access product detail page directly from quick view window just with a click of the mouse."
+msgstr "Bouton supplémentaire qui permet aux utilisateurs d’accéder à la page de détail du produit directement à partir de la fenêtre de vue rapide en un clic."
+
+#: templates/admin/premium.php:381
+#, gp-priority: normal
+msgid "Type of product images"
+msgstr "Type d’images de produit"
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:386
+#, gp-priority: normal
+msgid "Each product can have more than one image: choose whether to hide or show them with the %1$sslider%2$s effect or in the classic %1$sWooCommerce%2$s display."
+msgstr "Chaque produit peut avoir plus d’une image : choisir de les masquer ou de les afficher avec un %1$sdiaporama%2$s ou avec l’affichage classique %1$sWooCommerce%2$s."
+
+#: templates/admin/premium.php:462
+#, gp-priority: normal
+msgid "Compatibility with other YITH's plugins"
+msgstr "Compatibilité avec les autres extensions YITH"
+
+#. Plugin Name of the plugin
+#, gp-priority: normal
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce Quick View"
+
+#. Plugin URI of the plugin
+#, gp-priority: normal
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-quick-view"
+msgstr "https://yithemes.com/themes/extensions/yith-woocommerce-quick-view"
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:467
+#, gp-priority: normal
+msgid "Thanks to the compatibility with %1$sYITH WooCommerce Zoom Magnifier, YITH WooCommerce Badge Management%2$s and %1$sYITH WooCommerce Wishlist%2$s, you will be free to enrich further the content of your quick view.%3$s Zoom the product image, show a badge, or add the button to open the quick view in all products available in your users' wishlists. With YITH's plugins you make the difference."
+msgstr "Grâce à la compatibilité avec %1$sYITH WooCommerce Zoom Magnifier, YITH WooCommerce Badge Management%2$s et %1$sYITH WooCommerce Wishlist%2$s, vous serez libre d’enrichir davantage le contenu de votre vue rapide.%3$s Zoom l’image du produit, afficher un badge, ou ajouter le bouton pour ouvrir la vue rapide dans tous les produits disponibles dans vos utilisateurs. Avec les extensions de YITH, vous faites la différence."
+
+#: plugin-fw/templates/fields/customtabs.php:17
+#, gp-priority: normal
+msgid "Expand all"
+msgstr "Tout déplier"
+
+#: plugin-fw/templates/fields/image-gallery.php:41
+#, gp-priority: normal
+msgid "Delete"
+msgstr "Supprimer"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+#, gp-priority: normal
+msgid "Left sidebar"
+msgstr "Colonne latérale gauche"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+#, gp-priority: normal
+msgid "No sidebar"
+msgstr "Aucune colonne latérale"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+#, gp-priority: normal
+msgid "Left Sidebar"
+msgstr "Colonne latérale gauche"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+#, gp-priority: normal
+msgid "Right Sidebar"
+msgstr "Colonne latérale droite"
+
+#: templates/admin/premium.php:262 templates/admin/premium.php:487
+#, gp-priority: normal
+msgid "UPGRADE"
+msgstr "Mettre à niveau"
+
+#: templates/admin/premium.php:263 templates/admin/premium.php:488
+#, gp-priority: normal
+msgid "to the premium version"
+msgstr "en version premium"
+
+#: templates/admin/premium.php:270
+#, gp-priority: normal
+msgid "Premium Features"
+msgstr "Fonctionnalités premium"
+
+#: templates/admin/premium.php:445
+#, gp-priority: normal
+msgid "SHORTCODE"
+msgstr "Code court"
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:426
+#, gp-priority: normal
+msgid "A rich option panel to change the colors of the %1$s\"Quick View\"%2$s button and of everything that is within the modal window generated."
+msgstr "Une fenêtre de paramétrage complète permettant de changer les couleurs du bouton %1$s\"Vue Rapide\"%2$s et de tout ce qui est à l'intérieure de la fenêtre modale générée."
+
+#. translators: placeholders are used to add html tags.
+#: templates/admin/premium.php:257 templates/admin/premium.php:482
+#, gp-priority: normal
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Quick View%2$s to benefit from all features!"
+msgstr "Mettre à niveau vers la %1$sversion PRO%2$s de %1$sYITH WooCommerce Quick View%2$s pour bénéficier de toutes les fonctionnalités !"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+#, gp-priority: normal
+msgid "Plugins Upgraded"
+msgstr "Extensions misent à jour"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+#, gp-priority: normal
+msgid "Plugins Activated"
+msgstr "Extensions activées"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1057
+#, gp-priority: normal
+msgid "Sorting successful."
+msgstr "Tri réussi."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1056
+#, gp-priority: normal
+msgid "Sorry, import is disabled."
+msgstr "Désolé, l’importation est désactivée."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1054
+#, gp-priority: normal
+msgid "An error has occurred during import. Please try again."
+msgstr "Une erreur est survenue lors de l’importation. Veuillez réessayer."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1053
+#, gp-priority: normal
+msgid "Database imported correctly."
+msgstr "Base de données importée correctement."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:663
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+#, gp-priority: normal
+msgid "Are you sure?"
+msgstr "Confirmez-vous ?"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:667
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:139
+#, gp-priority: normal
+msgid "Reset to default"
+msgstr "Rétablir les réglages par défaut"
+
+#: plugin-fw/includes/class-yith-system-status.php:183
+#, gp-priority: normal
+msgid "YITH Plugins"
+msgstr "Extensions YITH"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:83
+#, gp-priority: normal
+msgid "Plugin Settings"
+msgstr "Réglages de l’extension"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:429
+#, gp-priority: normal
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Les modifications que vous avez apportées seront perdues si vous quittez cette page."
+
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+#, gp-priority: normal
+msgid "Name"
+msgstr "Nom"
+
+#: plugin-options/settings-options.php:46
+#, gp-priority: normal
+msgid "Quick View"
+msgstr "Vue Rapide"
+
+#: includes/class.yith-wcqv-admin.php:146
+#: plugin-fw/includes/class-yit-plugin-panel.php:84
+#, gp-priority: normal
+msgid "Settings"
+msgstr "Réglages"
+
+#: init.php:51
+#, gp-priority: normal
+msgid "YITH WooCommerce Quick View is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Quick View est activé mais pas utilisable. Vous devez installer l’extension WooCommerce pour qu’elle fonctionne."
+
+#: init.php:66
+#, gp-priority: normal
+msgid "You can't activate the free version of YITH WooCommerce Quick View while you are using the premium one."
+msgstr "Vous ne pouvez pas activer la version gratuite de YITH WooCommerce Quick View si vous utilisez la version PRO."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:454
+#: plugin-fw/includes/class-yit-plugin-panel.php:457
+#, gp-priority: normal
+msgid "How to install premium version"
+msgstr "Comment installer la version PRO"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:658
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:132
+#, gp-priority: normal
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:663
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:136
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+#, gp-priority: normal
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Si vous continuez, vous réinitialiserez toutes les options sur cette page."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1047
+#, gp-priority: normal
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "L’élément que vous avez saisi existe déjà. Veuillez saisir un autre nom."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1048
+#, gp-priority: normal
+msgid "Settings saved"
+msgstr "Réglages enregistrées"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1049
+#, gp-priority: normal
+msgid "Settings reset"
+msgstr "Réglages réinitialisés"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1050
+#, gp-priority: normal
+msgid "Element deleted correctly."
+msgstr "Élément bien supprimé."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1051
+#: plugin-fw/includes/class-yit-plugin-panel.php:1052
+#, gp-priority: normal
+msgid "Element updated correctly."
+msgstr "Élément bien mis à jour."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1055
+#, gp-priority: normal
+msgid "The added file is not valid."
+msgstr "Le fichier ajouté est non valide."
+
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68
+#, gp-priority: normal
+msgid "Remove"
+msgstr "Retirer"
+
+#: includes/class.yith-wcqv-admin.php:147
+#, gp-priority: normal
+msgid "Premium Version"
+msgstr "Version premium"
